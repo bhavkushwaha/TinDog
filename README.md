@@ -1,4 +1,5 @@
-# TinDog
+# TinDog - A Dating Website for Dogs
+HTML5, CSS3 and Bootstrap were used to create this.
 ![img1](https://user-images.githubusercontent.com/75977991/174354960-f9b7d642-2416-4f8d-a3f9-44b1bca34c67.JPG)
 ![img2](https://user-images.githubusercontent.com/75977991/174355479-915ad3e0-75ba-4bb2-957a-e1f1da5d4635.JPG)
 ![img3](https://user-images.githubusercontent.com/75977991/174355483-f18d4666-2784-4fec-b3b8-ba81485c4504.JPG)
